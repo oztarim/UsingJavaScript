@@ -1,0 +1,16 @@
+body{
+
+	background-color: darkgrey;
+	margin:1;
+}
+
+
+p{
+	color:black;
+	font-weight:bold;
+}
+
+button{
+
+	font-size:15px;
+}
